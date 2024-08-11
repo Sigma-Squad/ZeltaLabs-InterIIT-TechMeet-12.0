@@ -111,3 +111,11 @@ Zelta Labs Untrade, and the entire Discord community, for your generosity, suppo
 The current model can be extended by ensemble agent and making risk management can be improved using that model the modification can be made in future to optimise the model and more efficient.
 
 Note: If any issue arises and cannot be resolved please mail to this id: team99.interiit@gmail.com
+
+## Team
+ - [Deep Ganguly](https://github.com/deepganguly98)
+ - Vikas Kumar
+ - Atharv Nagar
+ - [Preet Bobde](https://github.com/StompingJalapeno)
+ - Adarsh Kumar
+ - Tulasi Vardhani
